@@ -1,0 +1,17 @@
+/* let's try and keep this file as small as possible */
+#dnxcf_gmap {
+    width: 100%;
+    height: 400px;
+}
+#dnxcf_gmap img {
+    max-width: none;
+}
+#dnxcf_gmap #content {
+
+}
+#dnxcf_gmap .firstHeading {
+
+}
+#dnxcf_gmap #bodyContent p {
+    
+}

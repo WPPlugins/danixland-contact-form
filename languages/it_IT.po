@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: danixland-contact-form\n"
+"POT-Creation-Date: 2016-02-20 20:53+0100\n"
+"PO-Revision-Date: 2016-02-20 20:56+0100\n"
+"Last-Translator: danix <danix@danixland.net>\n"
+"Language-Team: danixland <danix@danixland.net>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: i18n\n"
+
+#: danixland-contact-form.php:62
+msgid "Come visit us"
+msgstr "Vieni a trovarci"
+
+#: danixland-contact-form.php:203
+msgid "Contact from \""
+msgstr "Contattato da \""
+
+#: danixland-contact-form.php:218
+#, php-format
+msgid ""
+"Hello \"%s\",\n"
+"you are being contacted by %s on %s.\n"
+"%s has provided the following informations:\n"
+"\tEmail:\t\t%s\n"
+"\tWebsite:\t%s\n"
+"\tMessage:\n"
+"\n"
+"%s"
+msgstr ""
+"Salve \"%s\",\n"
+"sei stato contattato da %s su %s.\n"
+"%s ha fornito le seguenti informazioni:\n"
+"\tEmail:\t\t%s\n"
+"\tSito Web:\t%s\n"
+"\tMessaggio:\n"
+"\n"
+"%s"
+
+#: danixland-contact-form.php:229
+#, php-format
+msgid ""
+"We have also collected the following informations:\n"
+"\tBrowser:\t%s\n"
+"\tTime:\t\t%s\n"
+"\tIP Address:\t%s\n"
+msgstr ""
+"Abbiamo inoltre raccolto le seguenti informazioni:\n"
+"\tBrowser:\t%s\n"
+"\tData:\t\t%s\n"
+"\tIndirizzo IP:\t%s\n"
+
+#: danixland-contact-form.php:237
+msgid ""
+"your email was sent successfully. Here's the data you submitted via our form."
+msgstr ""
+"La tua email è stata inviata con successo. Questi sono i dati che hai "
+"inserito nel form."
+
+#: danixland-contact-form.php:240
+msgid "Your Name:"
+msgstr "Il tuo nome:"
+
+#: danixland-contact-form.php:242
+msgid "Your e-mail:"
+msgstr "La tua email:"
+
+#: danixland-contact-form.php:244
+msgid "Subject of your message:"
+msgstr "L'oggetto del tuo messaggio:"
+
+#: danixland-contact-form.php:246
+msgid "Text of your Message:"
+msgstr "Il testo del tuo messaggio:"
+
+#: danixland-contact-form.php:250
+msgid "we also collected some data for tecnical reasons."
+msgstr "abbiamo inoltre raccolto i seguenti dati per ragioni tecniche."
+
+#: danixland-contact-form.php:253
+msgid "Your IP address:"
+msgstr "Il tuo indirizzo IP:"
+
+#: danixland-contact-form.php:255
+msgid "Your Browser:"
+msgstr "Il tuo Browser:"
+
+#: danixland-contact-form.php:260
+#, php-format
+msgid ""
+"there was a problem processing your email. Please contact the <a href="
+"\"mailto:%s\">administrator</a>."
+msgstr ""
+"C'è stato un problema tecnico nell'inviare la tua email. Contatta l'<a href="
+"\"mailto:%s\">amministratore</a>."
+
+#: danixland-contact-form.php:267
+msgid "looks like you don't belong here. We don't like spammers. Go away now!"
+msgstr ""
+"Sembra che tu sia fuori luogo qui. Non ci piacciono gli spammers. Vai via!"
+
+#: danixland-contact-form.php:279
+msgid "Our location"
+msgstr "La nostra sede"
+
+#: danixland-contact-form.php:282
+msgid "Required fields are marked "
+msgstr "I campi obbligatori sono marcati da un "
+
+#: danixland-contact-form.php:286
+msgid "Privacy:"
+msgstr "Privacy:"
+
+#: danixland-contact-form.php:291
+msgid "Personal Informations:"
+msgstr "Informazioni Personali:"
+
+#: danixland-contact-form.php:293
+msgid "Full Name"
+msgstr "Nome Completo"
+
+#: danixland-contact-form.php:294
+msgid "name"
+msgstr "nome"
+
+#: danixland-contact-form.php:297
+msgid "email address"
+msgstr "Indirizzo email"
+
+#: danixland-contact-form.php:298
+msgid "e-mail"
+msgstr "e-mail"
+
+#: danixland-contact-form.php:301 danixland-contact-form.php:302
+msgid "website"
+msgstr "Sito Web"
+
+#: danixland-contact-form.php:306
+msgid "your message:"
+msgstr "il tuo messaggio:"
+
+#: danixland-contact-form.php:308
+msgid "subject"
+msgstr "oggetto"
+
+#: danixland-contact-form.php:319
+msgid "message"
+msgstr "messaggio"
+
+#: danixland-contact-form.php:320
+msgid "Comment Here"
+msgstr "Commenta qui"
+
+#: danixland-contact-form.php:324
+msgid "send message"
+msgstr "Invia il messaggio"
+
+#: include/dnxcf_helper.php:23
+msgid "Add Contact Form"
+msgstr "Aggiungi Form di contatto"
+
+#: include/dnxcf_helper.php:54
+msgid "I want to make a comment."
+msgstr "Voglio fare un commento."
+
+#: include/dnxcf_helper.php:55
+msgid "I want to ask a question."
+msgstr "Voglio fare una domanda."
+
+#: include/dnxcf_helper.php:56
+msgid "I am interested in a product."
+msgstr "Sono interessato ad un prodotto."
+
+#: include/dnxcf_helper.php:57
+msgid "I have to report a problem."
+msgstr "Devo riportare un problema."
+
+#: include/dnxcf_helper.php:58
+msgid "Other (explain below)"
+msgstr "Altro (spiega sotto)"
+
+#: include/dnxcf_options-display.php:4
+msgid "Sender email address"
+msgstr "Indirizzo email del mittente"
+
+#: include/dnxcf_options-display.php:5
+msgid "Recipient email address"
+msgstr "Indirizzo email del destinatario"
+
+#: include/dnxcf_options-display.php:6
+msgid "Content type"
+msgstr "Tipo di contenuto"
+
+#: include/dnxcf_options-display.php:7
+msgid "Subject"
+msgstr "Oggetto"
+
+#: include/dnxcf_options-display.php:8
+msgid "Privacy policy"
+msgstr "Privacy"
+
+#: include/dnxcf_options-display.php:9
+msgid "Google Map"
+msgstr "Google Map"
+
+#: include/dnxcf_options-display.php:13
+msgid "content type?"
+msgstr "tipo di contenuto?"
+
+#: include/dnxcf_options-display.php:14 include/dnxcf_options-display.php:17
+msgid "name?"
+msgstr "nome?"
+
+#: include/dnxcf_options-display.php:15 include/dnxcf_options-display.php:18
+msgid "email address?"
+msgstr "indirizzo email?"
+
+#: include/dnxcf_options-display.php:16
+msgid "subject options?"
+msgstr "opzioni dell'oggetto?"
+
+#: include/dnxcf_options-display.php:19
+msgid "policy text?"
+msgstr "testo della policy?"
+
+#: include/dnxcf_options-display.php:20
+msgid "Latitude?"
+msgstr "Latitudine?"
+
+#: include/dnxcf_options-display.php:21
+msgid "Longitude?"
+msgstr "Longitudine?"
+
+#: include/dnxcf_options-display.php:22
+msgid "Address?"
+msgstr "Indirizzo"
+
+#: include/dnxcf_options-display.php:25
+msgid ""
+"Here you can change the content type of your emails, either html or plain "
+"text."
+msgstr ""
+"Qui puoi cambiare il tipo di contenuto visualizzato nelle email, puoi "
+"scegliere tra html o testo semplice."
+
+#: include/dnxcf_options-display.php:29
+msgid ""
+"This is the email address where you will receive all email from the contact "
+"form."
+msgstr ""
+"Questo è l'indirizzo al quale riceverai le email inviate dal form di contatto"
+
+#: include/dnxcf_options-display.php:33
+msgid ""
+"These are the options that you are giving as a dropdown list to your users."
+msgstr ""
+"Queste sono le opzioni che saranno visualizzate come lista a tendina dai "
+"tuoi utenti"
+
+#: include/dnxcf_options-display.php:38
+msgid "Here you can set the sender email address for the contact form."
+msgstr ""
+"Qui puoi impostare l'indirizzo email del mittente delle email provenienti "
+"dal form di contatto."
+
+#: include/dnxcf_options-display.php:43
+#, php-format
+msgid "The emails you will receive will be from: <code>%s < %s ></code>"
+msgstr "Le email che riceverai proverranno da <code>%s < %s ></code>"
+
+#: include/dnxcf_options-display.php:48
+msgid ""
+"so just make sure you whitelist this address in your mail client to avoid "
+"losing important messages."
+msgstr ""
+"quindi assicurati di aggiungere questo indirizzo ai contatti del tuo email "
+"client per evitare di perdere messaggi importanti."
+
+#: include/dnxcf_options-display.php:53
+msgid ""
+"Enter here the content of your privacy policy relative to the contact form."
+msgstr ""
+"Inserisci il contenuto della tua policy sulla privacy relativa al form di "
+"contatto."
+
+#: include/dnxcf_options-display.php:57
+msgid ""
+"Here you can change various settings for the map that will be displayed on "
+"the form page. <strong>Note:</strong> if either Longitude or Latitude values "
+"are missing the map will be disabled."
+msgstr ""
+"Qui puoi cambiare varie impostazioni per la mappa che saranno visualizzate "
+"nella pagina del form. <strong>Importante:</strong> se una impostazione tra "
+"Longitudine o Latitudine non viene inserita, la mappa sarà disabilitata."
+
+#: include/dnxcf_options-display.php:66
+msgid "text/plain"
+msgstr "text/plain"
+
+#: include/dnxcf_options-display.php:67
+msgid "text/html"
+msgstr "text/html"
+
+#: include/dnxcf_options-display.php:68
+msgid "Send plain (text) or rich (html) messages."
+msgstr "Invia messaggi in formato semplice (testo) o complessi (html)."
+
+#: include/dnxcf_options-display.php:75
+msgid ""
+"This is how you will be called in every email you will receive from this "
+"contact form."
+msgstr ""
+"Questo è il nome con cui sarai chiamato in ogni email ricevuta da questo "
+"form."
+
+#: include/dnxcf_options-display.php:82
+msgid "If you leave this field empty the admin email address will be used."
+msgstr ""
+"Se lascerai questo campo vuoto, l'email dell'account amministratore sarà "
+"utilizzata."
+
+#: include/dnxcf_options-display.php:89
+msgid ""
+"Insert one option per line. If you leave this area empty the default options "
+"will be used."
+msgstr ""
+"Inserisci un'opzione per riga. Se lasci questo spazio vuoto saranno "
+"utilizzate le opzioni predefinite."
+
+#: include/dnxcf_options-display.php:96
+msgid "This is the email address from which you will receive communications."
+msgstr "Questo è l'indirizzo email da cui riceverai tutte le comunicazioni."
+
+#: include/dnxcf_options-display.php:103
+msgid "This is the name associated to the above email address."
+msgstr "Questo è il nome associato all'indirizzo di cui sopra."
+
+#: include/dnxcf_options-display.php:110
+msgid ""
+"The text of the privacy policy, Leave empty to disable the policy area in "
+"the form."
+msgstr ""
+"Il testo della policy sulla privacy. Lascia vuoto per disabilitare la "
+"visualizzazione nel form di contatto."
+
+#: include/dnxcf_options-display.php:117
+msgid ""
+"Address to be displayed as a popup inside the map. Leave empty to disable."
+msgstr ""
+"Indirizzo da visualizzare all'interno di un popup sulla mappa. Lasciare "
+"vuoto per disabilitare."
+
+#: include/dnxcf_options-display.php:124
+msgid "Longitude value, eg. 16.290340"
+msgstr "valore per la Longitudine, ad esempio 16.290340"
+
+#: include/dnxcf_options-display.php:125
+msgid "+/- 180 degrees value accepted"
+msgstr "valore accettato +/- 180 gradi"
+
+#: include/dnxcf_options-display.php:132
+msgid "Latitude value, eg. 38.269625."
+msgstr "valore per la Latitudine, ad esempio 38.269625"
+
+#: include/dnxcf_options-display.php:133
+msgid "+/- 90 degrees value accepted"
+msgstr "valore accettato +/- 90 gradi"
+
+#: include/dnxcf_settings.php:9
+msgid "Contact Form"
+msgstr "Form di Contatto"
+
+#: include/dnxcf_settings.php:19
+msgid "danixland Contact Form Set up"
+msgstr "Impostazioni di danixland Contact Form"
+
+#: include/dnxcf_settings.php:26
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: include/dnxcf_settings.php:27
+msgid "Reset Defaults"
+msgstr "Resetta le Impostazioni"
+
+#~ msgid ""
+#~ "Hello \"%s\",\n"
+#~ " you are being contacted by %s on %s.\n"
+#~ "%s has provided the following informations:\n"
+#~ "\tEmail:\t\t%s\n"
+#~ "\tWebsite:\t%s\n"
+#~ "\tMessage:\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Salve \"%s\",\n"
+#~ " sei stato contattato da %s su %s.\n"
+#~ "%s ha fornito le seguenti informazioni:\n"
+#~ "\tEmail:\t\t%s\n"
+#~ "\tSito Web:\t%s\n"
+#~ "\tMessaggio:\n"
+#~ "\n"
+#~ "%s"
+
+#~ msgid "Content Type"
+#~ msgstr "Tipo di contenuto"
+
+#~ msgid "recipient email address"
+#~ msgstr "Indirizzo email del destinatario"
+
+#~ msgid "sender email address"
+#~ msgstr "indirizzo email del mittente"
